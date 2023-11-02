@@ -189,3 +189,23 @@ int main() {
     return 0;
 }
 ```
+
+### Conclusion
+
+En conclusion, este capitulo a pesar de que sus temas parecen complicados, la verdad es que no es dificil de entenderles,
+son faciles de analizar, aparte de que son parecidos, una vez que entiendas las listas, es facil entender una lista doble
+enlazada, la pila y la cola son temas bastante sencilloz con codigos muy cortos sobre ordenamiento, evidentemente ordenan 
+manera deiferente como ya exlique en el resumen, en mi caso tuve mas dudas sobre las listas debido a que al principio son 
+confusas, aun que asi son la mayoria de los temas, con un poco de practica uno los domina y me falta aprender mas sobre
+la herencia para poder dominar al 100% estos temas.
+
+### Referencias
+
+Fundamentos de la Programación. (s.f.). Fundamentos de la Programación. http://www.fundamentosprogramacion.site
+
+La Standard Template Library (STL). (s.f.). https://ccia.ugr.es/~jfv/ed1/c++/cdrom4/paginaWeb/stl.htm
+
+C++ Pilas (stacks) y colas (queues) | Aprende Programación Competitiva. (s.f.). Inicio | Aprende Programación Competitiva. https://aprende.olimpiada-informatica.org/node/373#:~:text=En%20el%20artículo%20de%20hoy,en%20un%20árbol%20o%20grafo.
+
+Iteradores (Programación) - EcuRed. (s.f.). EcuRed. https://www.ecured.cu/Iteradores_(Programación)
+

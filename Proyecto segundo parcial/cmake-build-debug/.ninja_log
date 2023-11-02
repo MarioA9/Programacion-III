@@ -1,0 +1,22 @@
+# ninja log v5
+20	677	7204070804121371	build.ninja	d462fba8bd51e1e9
+1	2462	7204086070825524	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2468	3707	7204086083218516	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	1699	7204093795608968	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+1700	2774	7204093806317977	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+5	1761	7204098305881995	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+1762	2986	7204098317999023	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	1758	7204100520063759	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+1760	2853	7204100530941146	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	2857	7204101454617776	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2859	4153	7204101467519043	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	2379	7204101802768001	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2382	3621	7204101815135886	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	2736	7204102638224110	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2739	4030	7204102651089333	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+6	2003	7204103673837989	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2005	3121	7204103684953070	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+9	2578	7204154964217781	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+2581	4189	7204154980302275	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
+12	8982	7204159999993949	CMakeFiles/Proyecto_segundo_parcial.dir/main.cpp.obj	561595707aa577c7
+8986	11390	7204160024682035	Proyecto_segundo_parcial.exe	c50e087a0f8a7af6
